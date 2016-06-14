@@ -1,0 +1,24 @@
+{
+    "name"       : "wdio-api-declaration",
+    "version"    : "0.0.1",
+    "description": "A WebdriverIO API declaration",
+    "keywords"   : ["WebdriverIO", "WebDriver", "wdio", "API", "declaration"],
+    "author"     : "Alexander Abashkin <monolithed@gmail.com>",
+    "licence"    : "MIT",
+    "man"        : "README.md",
+    "main"       : "./index.js",
+
+    "repository": {
+        "type": "git",
+        "url" : "git@github.com:monolithed/wdio-api-declaration"
+    },
+
+    "engines": {
+        "node": ">=0.6.0"
+    },
+
+    "devDependencies": {
+        "eslint"               : "^2.11.1",
+        "eslint-config-pobedit": "^0.x"
+    }
+}
