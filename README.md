@@ -1,7 +1,5 @@
 # wdio-api-declaration
 
-## The work is not completed yet
-
 > A [WebdriverIO API](http://webdriver.io/api.html) declaration.
 
 This package helps to make your code editor aware of the functions and methods of the library without adding it's source code to the project, we need to set it as an External JavaScript library.
