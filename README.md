@@ -15,3 +15,5 @@ npm install wdio-api-declaration
 ### Usage
 
 For more information please see the article [How WebStorm Works: Completion for JavaScript Libraries](https://blog.jetbrains.com/webstorm/2014/07/how-webstorm-works-completion-for-javascript-libraries/)
+
+![Example](./files/autocomplete.png)
